@@ -425,6 +425,10 @@ header.main-header {
   .genre-highlight-list {
     grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
   }
+  .modal audio {
+  width: 100%;
+  margin-top: 1rem;
+}
 }
 
 audio::-webkit-media-controls-panel {
