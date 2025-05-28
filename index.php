@@ -12,7 +12,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
 
   <!-- link css -->
-  <link rel="stylesheet" href="assets/style.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
@@ -129,7 +129,7 @@
 
   <!-- Bootstrap & Script -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/script.js"></script>
+  <script src="script.js"></script>
   <script>
     document.querySelectorAll(".dropdown-item").forEach(item => {
       item.addEventListener("click", (e) => {
