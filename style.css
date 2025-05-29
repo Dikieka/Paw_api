@@ -442,6 +442,6 @@ audio::-webkit-media-controls-time-remaining-display,
 audio::-webkit-media-controls-timeline {
   color: white;
 }
-.search-bar .dropdown {
-  font-size: 10pt;
+#search-type-button {
+  font-size: 8pt;
 }
